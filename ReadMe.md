@@ -1,4 +1,4 @@
-## Digital Trading App
+# Digital Trading App
 This is a digital trading application built with React, Node.js, and MongoDB. The application allows users to buy and sell digital assets in real-time. It features an intuitive user interface, a responsive design, and a secure authentication system.
 
 ## Prerequisites
