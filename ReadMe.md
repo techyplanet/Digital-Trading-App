@@ -13,19 +13,19 @@ To install the application, follow these steps:
 
 1. Clone the repository to your local machine.
 
-git clone https://github.com/princenchiba/Digital-Trading-App.git
+- git clone https://github.com/princenchiba/Digital-Trading-App.git
 
 2. Navigate to the project directory.
 
-cd Digital-Trading-App
+- cd Digital-Trading-App
 
-Install the dependencies.
+3. nstall the dependencies.
 
-npm install
+- npm install
 
-Start the server.
+4. Start the server.
 
-npm run start
+- npm run start
 
 Open your web browser and go to http://localhost:3000 to view the application.
 
