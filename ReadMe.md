@@ -35,7 +35,7 @@ npm install
 npm run start
 ~~~ 
 
-Open your web browser and go to http://localhost:3000 to view the application.
+5. Open your web browser and go to http://localhost:3000 to view the application.
 
 ## Features
 - User authentication and authorization
